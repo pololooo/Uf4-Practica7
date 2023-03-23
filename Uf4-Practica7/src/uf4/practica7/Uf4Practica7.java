@@ -96,7 +96,7 @@ public class Professor {
 
     public void setFormacio(String formacio) {
         this.formacio = formacio;
-    }
+    }.
 
     @Override
     public String toString() {
